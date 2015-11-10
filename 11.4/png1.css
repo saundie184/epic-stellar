@@ -1,0 +1,27 @@
+.center {
+  width: 800px;
+  height: 800px;
+  /*margin-left: 200px;
+  margin-right: 200px;*/
+  margin: 0 auto;
+  border: 2px solid lightblue;
+}
+.sidebar {
+  width:200px;
+  height: 800px;
+  margin-left: 20px;
+  border: 2px solid lightblue;
+
+}
+.img {
+  width: 150px;
+  height: 150px;
+  margin: 10%;
+  border: 2px solid lightblue;
+}
+/*.middle {
+  width: 700px;
+  height: 700px;
+  border: 2px solid gray;
+  margin: 40px;
+}*/

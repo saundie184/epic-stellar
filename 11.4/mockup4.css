@@ -1,0 +1,47 @@
+body {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+h1 {
+  margin-top: 3em;
+  /*margin-left: 2em;*/
+  margin-bottom: 3em;
+}
+p{
+  display: inline-block;
+  margin-bottom: 40px;
+  font-size: 30px;
+}
+
+.field {
+  display: inline-block;
+  margin-left: 3em;
+  width: 500px;
+  height: 40px;
+  border: 2px solid black;
+}
+.checkbox {
+  display:inline-block;
+  width: 25px;
+  height: 25px;
+  margin-right: 1em;
+  border: 2px solid black;
+}
+.sanfran {
+  display:inline-block;
+}
+.notsanfran {
+  display:inline-block;
+  margin-left: 3em;
+}
+.submit {
+  width: 200px;
+  height: 30px;
+  border: 2px solid black;
+}
+p.button {
+  font-size: 20px;
+  display: inline-block;
+  margin: auto;
+  padding: .25em;
+}
