@@ -1,0 +1,31 @@
+
+  .square {
+    border: 2px solid black;
+    height: 30px;
+    width: 30px;
+    margin: 1px;
+    display: inline-block;
+  }
+
+  .pal {
+    border: 2px solid black;
+    height: 30px;
+    width: 30px;
+    margin: 1px;
+    display: inline-block;
+  }
+
+#blue {
+  background-color: 'blue'
+}
+
+#indigo {
+
+}
+
+
+<div id='indigo'class='pal'></div>
+<div id='violet'class='pal'></div>
+<div id='pink'class='pal'></div>
+<div id='turquoise'class='pal'></div>
+<div id='gray'class='pal'></div>
